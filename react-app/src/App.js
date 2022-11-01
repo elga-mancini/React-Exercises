@@ -2,9 +2,10 @@
 import './App.css';
 
 function App() {
-    const name = 'Elga';
+    const a = 3;
+    const b = 3;
     return (
-      <h1>Hello, {name}</h1>
+      <h2>{a + b}</h2>
     )
 }
 
